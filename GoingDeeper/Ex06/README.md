@@ -26,6 +26,8 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
      
         - 가장 핵심이라고 생각하는 건 attention map을 그리는 것이 transformer를 공부한 핵심이라고 생각합니다
+        - <img width="510" height="401" alt="image" src="https://github.com/user-attachments/assets/6473f98b-aa95-4a56-8b60-d57bfa942a1e" />
+
         - <img width="470" height="435" alt="image" src="https://github.com/user-attachments/assets/64cf6e33-68d7-46da-8003-5f26cbdaf867" />
 
         
